@@ -1,0 +1,1 @@
+# Prepare-Gold-Images-for-Windows-and-Linux-Cloning
